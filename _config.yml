@@ -1,7 +1,7 @@
 base_url: 
 domain: 
 res_base_url: resources
-highlighter: pygments
+#highlighter: pygments
 markdown: kramdown
 kramdown:
   entity_output: numeric
