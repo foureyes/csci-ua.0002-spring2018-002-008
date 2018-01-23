@@ -42,6 +42,9 @@ Homework #1 __Due Wednesday, Feb 1st, at 11PM__
 
 (Submit via NYU Classes)
 
+To be posted.
+
+{% comment %}
 1. [mad_libs_lyrics.py](homework/hw01/mad_libs_lyrics.py)
 2. [exercises.py](homework/hw01/exercises.py)
 3. [tree.py](homework/hw01/tree.py)
@@ -66,6 +69,7 @@ Example output for tree.py:
  """""" 
    ||
 </pre>
+{% comment %}
 <!--_-->
 </article>
 

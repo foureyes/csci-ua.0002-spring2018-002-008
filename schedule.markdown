@@ -55,7 +55,7 @@ Jump to Class:
 * Programming tools
 * Reading / Writing Programs
 
-</article>{% comment %} {% include classes/01/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/01/materials.markdown %}</div> </section> 
 
 
 
@@ -71,7 +71,7 @@ Jump to Class:
 * Values, Types, Operations, Variables
 * Input / Output
 * Calling Functions
-</article>{% comment %} {% include classes/02/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/02/materials.markdown %}</div> </section> 
 
 
 
