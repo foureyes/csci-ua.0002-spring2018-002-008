@@ -89,7 +89,7 @@ Jump to Class:
 * Formatting
 * Errors
 * Debugging
-</article>{% comment %} {% include classes/03/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/03/materials.markdown %}</div> </section> 
 
 
 
@@ -105,7 +105,7 @@ Jump to Class:
 
 * In-class programming assignment
 
-</article>{% comment %} {% include classes/04/materials.markdown %} {% endcomment %}</div> </section> 
+</article> {% include classes/04/materials.markdown %} </div> </section> 
 
 
 <a name="class5"></a><!---------- start --------------->
