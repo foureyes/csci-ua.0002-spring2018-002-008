@@ -44,7 +44,7 @@ Readings
 * {{ site.bookq }} - Chapter 2 (Input, Processing and Output)
 * [{{site.bookt}} - Chapter 2](http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html)
 
-Module, Quiz and Readings __Due Tuesday, Feb 7th, 9AM__
+Module, Quiz and Readings __Due Tuesday, Feb 6th, 9AM__
 
 
 * Complete the [Self Paced-Learning Module #3]({{ site.module3 }})
