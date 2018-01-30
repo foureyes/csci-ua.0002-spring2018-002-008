@@ -32,14 +32,17 @@ Warm-up
 
 Homework #2 __Due Wednesday, February 7th, at 11PM__ 
 
+To be posted.
+
+<!--
 * we'll do go over potential solutions to multiply together!
 * for the remainder of the homework
     * write your own code
     * (though, I expect that multiply will be the same one that we mostly implement in class)
-
 1. [multiply.py](homework/hw02/multiply.py) (partially implemented in class together!)
 2. [grade_bot_3000.py](homework/hw02/grade_bot_3000.py)
 3. [change_puhleese.py](homework/hw02/change_puhleese.py)
+-->
 
 </article>
 
