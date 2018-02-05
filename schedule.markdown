@@ -121,7 +121,7 @@ Jump to Class:
 * Boolean Logic
 * Modules (math, random, sys)
 
-</article>{% comment %} {% include classes/05/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/05/materials.markdown %} </div> </section> 
 
 
 <a name="class6"></a><!---------- start --------------->
