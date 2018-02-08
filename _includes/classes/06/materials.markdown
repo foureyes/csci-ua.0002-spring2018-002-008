@@ -28,7 +28,7 @@ Homework #3 __Due Wednesday, February 14th, at 11PM__
 2. [tip.py](homework/hw03/tip.py)
 3. [adventure.py](homework/hw03/adventure.py)
 4. [triangle_or_not.py](homework/hw03/triangle_or_not.py)
-5. [adventure.py](homework/hw03/adventure.py)
+5. [worksheet.py](homework/hw03/worksheet.py)
 
 <!--
 Readings
