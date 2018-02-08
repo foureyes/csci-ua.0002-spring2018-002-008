@@ -19,16 +19,16 @@
 
 Warm-up
 
-* (SNOW DAY! ⛄ ⛄ ⛄)
+* Modules!
+* A coin flip
 
-Homework #3 __Due Wednesday, February 15th, at 11PM__ 
-
-(this is a shorter version of our regular homework because we did not have a workshop today)
+Homework #3 __Due Wednesday, February 14th, at 11PM__ 
 
 1. [grade.py](homework/hw03/grade.py)
-2. [fortune.py](homework/hw03/fortune.py)
-3. [tip.py](homework/hw03/tip.py)
+2. [tip.py](homework/hw03/tip.py)
+3. [adventure.py](homework/hw03/adventure.py)
 4. [triangle_or_not.py](homework/hw03/triangle_or_not.py)
+5. [adventure.py](homework/hw03/adventure.py)
 
 <!--
 Readings
