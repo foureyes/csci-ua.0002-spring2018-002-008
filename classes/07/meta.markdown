@@ -11,8 +11,8 @@ title: About Class #7
 <section markdown="block">
 ###  Homework
 
-* homework #1 grades posted
-* [homework #3](../../schedule.html#homework3) is due on Wednesday!
+* homework #1 grades posted should be posted!
+* check out assignment tab rather than gradebook to see formatting
 
 </section>
 
@@ -26,7 +26,7 @@ title: About Class #7
 <section markdown="block">
 ###  Midterm #1
 
-Midterm #1 is in __two weeks:__ - __TUE 2/28__ &rarr;
+Midterm #1 is in __two weeks:__ - __TUE 2/27__ &rarr;
 
 * it takes place __in class__, so come on time
 * __review questions will be posted__ in the next day or two

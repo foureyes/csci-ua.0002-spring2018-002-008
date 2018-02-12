@@ -149,7 +149,7 @@ Jump to Class:
 * Modules (math, random, sys) Continued
 * While Loops
 * Accumulator Variables
-</article>{% comment %} {% include classes/07/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/07/materials.markdown %}</div> </section> 
 
 
 <a name="class8"></a><!---------- start --------------->
