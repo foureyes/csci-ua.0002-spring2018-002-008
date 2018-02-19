@@ -175,9 +175,9 @@ Jump to Class:
 ####  Topics
 
 * While Loops Continued
-* For Loops Preview
+* For Loops 
 
-</article>{% comment %} {% include classes/09/materials.markdown %}{% endcomment %}</div> </section> 
+</article> {% include classes/09/materials.markdown %}</div> </section> 
 
 
 <a name="class10"></a><!---------- start --------------->
@@ -190,7 +190,7 @@ Jump to Class:
 ####  Topics
 
 * Review Session for Midterm #1
-</article>{% comment %} {% include classes/10/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/10/materials.markdown %}</div> </section> 
 
 
 <a name="class11"></a><!---------- start --------------->
