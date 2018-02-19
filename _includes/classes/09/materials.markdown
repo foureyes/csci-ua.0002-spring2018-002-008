@@ -13,7 +13,12 @@
 <article class="slides" markdown="block">
 ####  Slides
 
+{% comment %}
+Solutions
+
 * [About Class #9](classes/09/meta.html)
+{% endcomment %}
+
 * [For Loops Slides From the Previous Class](classes/08/for.html)
 * [While Loops vs For Loops](classes/09/vs.html)
 * [Loop Exercises](classes/09/loop-exercises.html)

@@ -15,7 +15,7 @@
 
 ###  Code
 
-* [Review Notes on format, % operator, conditionals](code/0002-midterm-1-notes.py) from previous semester.
+* [Review Notes on format, % operator, conditionals](code/0002-midterm-1-notes.py) from previous semesters.
 
 ###  Handouts
 
