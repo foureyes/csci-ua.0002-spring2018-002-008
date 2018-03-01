@@ -10,8 +10,10 @@
 <article class="slides" markdown="block">
 ####  Slides
 
-* [About Class #12](classes/12/meta.html)
+<!--* [About Class #12](classes/12/meta.html)
 * [String Formatting with %](classes/12/string-formatting.html)
+-->
+
 * [Nested Loops](classes/12/nested.html)
 * [Creating Functions](classes/12/returning_values.html)
 * [Approaching a Programming Problem](classes/12/dicewars.html)

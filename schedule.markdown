@@ -214,7 +214,7 @@ Jump to Class:
 * Nested Loops
 * Writing Your Own Functions 
 
-</article>{% comment %} {% include classes/12/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/12/materials.markdown %}</div> </section> 
 
 
 <a name="class13"></a><!---------- start --------------->
@@ -230,7 +230,7 @@ Jump to Class:
 * Testing
 * Scope
 * Strings
-</article>{% comment %} {% include classes/13/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/13/materials.markdown %}</div> </section> 
 
 
 <a name="class14"></a><!---------- start --------------->
