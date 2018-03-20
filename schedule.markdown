@@ -275,7 +275,7 @@ Jump to Class:
 
 * Strings
 
-</article>{% comment %} {% include classes/15/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/15/materials.markdown %}</div> </section> 
 
 
 <a name="class16"></a><!---------- start --------------->

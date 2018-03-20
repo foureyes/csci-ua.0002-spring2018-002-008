@@ -23,7 +23,7 @@ Warm-up
 * an example of minus
 * a box
 
-Homework #5 __Due Wednesday, March 22nd, at 11PM__
+Homework #5 __Due Wednesday, March 21st, at 11PM__
 
 1. [funcynum.py](homework/hw05/funcynum.py)
 	* [instructions only](homework/hw05/funcynum.html)
