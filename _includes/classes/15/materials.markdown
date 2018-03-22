@@ -35,7 +35,7 @@ Quizzes
 
 * Complete the [Self Paced-Learning Module #7]({{ site.module7 }})
 * Complete the [Self Paced-Learning Module #8]({{ site.module8 }})
-* Take quiz #7 and #8 in NYU Classes (to be posted)
+* Take quiz #7 and #8 in NYU Classes 
 
 
 <!--

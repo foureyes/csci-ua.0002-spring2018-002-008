@@ -1,7 +1,7 @@
 <article class="due" markdown="block">
 ####  Due Today
 
-* 12:30pm - Extended Homework Due Date
+* 11:00pm - Extended Homework #5 Due Date
 
 </article>
 
@@ -21,7 +21,7 @@ Warm-up
 * unicode, chr, ord
 * substitution cipher?
 
-Homework #6 __Due Wednesday, March 29th, at 11PM__ 
+Homework #6 __Due Wednesday, March 28th, at 11PM__ 
 
 1. [encode_decode.py](homework/hw06/encode_decode.py)
     * if you use chr and ord, [this table of code points to characters](http://www.utf8-chartable.de/unicode-utf8-table.pl?utf8=dec) may be handy!
