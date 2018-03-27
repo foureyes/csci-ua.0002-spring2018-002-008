@@ -301,7 +301,7 @@ Jump to Class:
 ####  Topics 
 
 * Lists
-</article>{% comment %} {% include classes/17/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/17/materials.markdown %}</div> </section> 
 
 <a name="class18"></a><!---------- start --------------->
 
