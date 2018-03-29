@@ -7,7 +7,7 @@ Write three functions that work with nested lists:
 2. stringify_animals(animals)
 3. get_most_urgent(animals)
 
-The parameter, animalsk, will be a list of lists representing a collection 
+The parameter, animals, will be a list of lists representing a collection 
 of animals at veterinary clinic (animal hospital!). The outer list is all 
 of the animals, while each inner list is a single animal with:
 

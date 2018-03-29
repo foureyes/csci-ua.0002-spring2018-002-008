@@ -314,7 +314,7 @@ Jump to Class:
 
 * In-class programming assignment
 
-</article>{% comment %} {% include classes/18/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/18/materials.markdown %}</div> </section> 
 
 <a name="class19"></a><!---------- start --------------->
 

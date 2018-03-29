@@ -17,9 +17,9 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Homework #7 __Due Monday, April 3rd, at 11PM__ 
+Homework #7 __Due Monday, April 2nd, at 11PM__ 
 
-(Late submissions allowed up through the morning of April 4th, 9AM)
+(Late submissions allowed up through the morning of April 3rd, 9AM)
 
 * [warm_up.py](homework/hw07/warm_up.py)
 * [animal_functions.py](homework/hw07/animal_functions.py)

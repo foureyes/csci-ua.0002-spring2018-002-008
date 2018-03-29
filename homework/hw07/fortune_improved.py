@@ -2,8 +2,7 @@
 fortune_improved.py - 12 points
 =====
 
-Improve the fortune telling program from an earlier homework.  This version
-will do the following:
+Write a fortune telling program:
 
 * Allow the user to add or remove fortunes
 * Allow the user to retrieve a random fortune
@@ -11,8 +10,8 @@ will do the following:
 The program will:
 
 * Continue to ask for a command, (add, remove, or get a fortune... or quit)
-* Stop asking if the command is 'q' for (q)uit (and say Bye!)
-* For the other commands:
+* Stop asking if the command is 'q', 'Q' or 'quit' in any casing for (q)uit (and say Bye!)
+* For the other commands only accept single letters, but both lowercase and uppercase should be accepted:
   * the letter 'a' for (a)dd - will prompt the user for a new fortune to add
   * the letter 'r' for (r)emove 
     * will list all the fortunes, each prefixed with a number
@@ -33,7 +32,7 @@ Some notes on implementation:
   from a list (this exists in the random module!)
 * The pop method may be helpful for one of the commands
 * Some sort of outer looping mechanism may help drive your program
-* You may want to use fortunes to break up your program into more manageable
+* You may want to use functions to break up your program into more manageable
   pieces
 
 Example Output That: 
