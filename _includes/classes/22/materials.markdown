@@ -19,7 +19,7 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Homework #8 __Due Wednesday, April 19th, at 11PM__ 
+Homework #8 __Due Wednesday, April 18th, at 11PM__ 
 
 1. [your_face instructions](homework/hw08/your_face.html)
 	* [your_face.py (file download)](homework/hw08/your_face.py)
