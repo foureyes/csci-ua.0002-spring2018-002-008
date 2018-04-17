@@ -28,11 +28,8 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Module #9 and Module #10 __Due Tuesday, April 25th, at 9am__
+Module #10 __Due Tuesday, April 24th, at 9am__
 
-* __You should probably look at module #9 before our workshop, but it won't be due 'til next week__
-* Complete the [Self Paced-Learning Module #9]({{ site.module9 }})
 * Complete the [Self Paced-Learning Module #10]({{ site.module10 }})
-* Take quiz #9 on NYU Classes
 * Take quiz #10 on NYU Classes
 </article>

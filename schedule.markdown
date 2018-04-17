@@ -375,7 +375,7 @@ Jump to Class:
 * File I/O
 * Exceptions
 
-</article>{% comment %} {% include classes/23/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/23/materials.markdown %}</div> </section> 
 
 
 <a name="class24"></a><!---------- start --------------->
