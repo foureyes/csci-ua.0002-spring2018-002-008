@@ -388,7 +388,7 @@ Jump to Class:
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %} {% include classes/24/materials.markdown %} {% endcomment %}</div> </section> 
+</article>{% include classes/24/materials.markdown %}</div> </section> 
 
 
 <a name="class25"></a><!---------- start --------------->

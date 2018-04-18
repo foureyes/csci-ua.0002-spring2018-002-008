@@ -13,15 +13,18 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Homework #9 __Due Wednesday, April 26th, at 11PM__ 
+Homework #9 __Due Wednesday, April 25th, at 11PM__ 
 
 * [nba.py](homework/hw09/nba.py)
 * [wordsy.py](homework/hw09/wordsy.py)
+
+{% comment %}
 * __Extra Credit for Midterm__ 
     * counted towards lower midterm score
     * can only be submitted if 2nd midterm was not 10% higher than first 
     * (without taking into account curve)
     * [rps.py](homework/hw09/rps.py)
+{% endcomment %}
 
 Resources for Homework #9
 
