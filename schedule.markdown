@@ -402,7 +402,7 @@ Jump to Class:
 
 * Dictionaries
 
-</article>{% comment %} {% include classes/25/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/25/materials.markdown %}</div> </section> 
 
 
 <a name="class26"></a><!---------- start --------------->
