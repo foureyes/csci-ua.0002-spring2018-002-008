@@ -1,8 +1,8 @@
 <article class="due" markdown="block">
-####  Due Today
+####  Due Next Tuesday
 
-* Module #09 and Quiz #09
 * Module #10 and Quiz #10
+* Module #11 and Quiz #11
 
 </article>
 
