@@ -16,7 +16,7 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Homework #10 and Extra Credit __Due Wednesday, May 3rd, at 11PM__ 
+Homework #10 and Extra Credit __Due Wednesday, May 2nd, at 11PM__ 
 
 * [lousy_plasma instructions](homework/hw10/lousy-plasma.html)
 * [lousy_plasma.py download](homework/hw10/lousy_plasma.py)
