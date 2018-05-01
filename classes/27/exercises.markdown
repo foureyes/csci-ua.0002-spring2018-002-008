@@ -3,15 +3,10 @@ layout: slides
 title: Review 
 ---
 <section markdown="block" class="title-slide">
-#  Exercises
+#  More Exercises
 {% include title-slide-footer.html %}
 </section>
 
-<section markdown="block">
-###  Dictionary Exercises
-
-First, check out some dictionary exercises from the [previous class](../26/exercises.html).
-</section>
 
 <section markdown="block">
 ##  State Abbreviations

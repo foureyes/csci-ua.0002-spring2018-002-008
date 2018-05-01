@@ -1,15 +1,23 @@
 <article class="due" markdown="block">
 ####  Due Today
 
+* Quiz 10 and 11
 
 </article>
 
 <article class="slides" markdown="block">
 ####  Slides
 
+* [Introduction to Object Oriented Programming](classes/27/oop.html)
+* [More Dictionary Exercises](classes/27/exercises.html)
+* Evaluations
+* WINC - Image Processing
+
+{% comment %}
 Optional Topic(s)
 
 * recursion
+{% endcomment %}
 
 Additional Exercises
 
