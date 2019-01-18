@@ -4,6 +4,7 @@ title: Home
 nav-state: index
 ---
 
+
 <a name="course-info"></a>
 
 #  [Syllabus]({{ site.departmental_syllabus }})

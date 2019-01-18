@@ -33,12 +33,16 @@ Readings
 * {{site.bookq}} - Chapter 2 (Input, Processing, Output)
 * (optional) [{{site.bookt}} - Chapter 2](http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html)
 
-Module, Quiz and Readings __Due Tuesday, Jan 30th, before class (9:30am)__ 
+Module, Quiz and Readings __Due Tuesday, Feb 5th, before class (9:30am)__ 
 
 * Complete the [Self Paced-Learning Module #2]({{ site.module2 }})
 * Take quiz #2 on NYU Classes
 
-Homework #1 __Due Wednesday, Jan 31st, at 11PM__ 
+Homework #1 - to be posted
+
+{% comment %} 
+
+__Due Wednesday, Jan 31st, at 11PM__ 
 
 (Submit via NYU Classes)
 
@@ -67,6 +71,7 @@ Example output for tree.py:
    ||
 </pre>
 <!--_-->
+{% endcomment %}
 </article>
 
 

@@ -13,27 +13,27 @@ course_number: CSCI-UA.0002
 course_section: "002"
 course_section_2: "008"
 course_name: Introduction to Computer Programming
-course_semester: Spring 2018
+course_semester: Spring 2019
 course_time: "Tue and Thur, 11:00AM - 12:15PM"
 course_time_2: "Tue and Thur, 9:30AM - 10:45PM"
 course_room: WWH 312
 course_room_2: WWH 202
-course_url: http://jvers.com/csci-ua.0002-spring2017-002-008
+course_url: https://cs.nyu.edu/~jversoza
 
 # office hours
-office_hours: "Mon and Tue from 12:45 to 2:15PM"
+office_hours: "Mon from 9:40AM to 10:55AM, Tue from 8:55AM to 9:25AM, and Wed from 9:40AM to 10:55AM"
 office_hours_room: WWH 422
 
 # email
 email: "jversoza at cs dot nyu dot edu"
 
 # finals
-final_schedule: https://cs.nyu.edu/dynamic/courses/exams/?semester=spring_2018
-final_date: Tuesday, May 15th
+final_schedule: https://cs.nyu.edu/dynamic/courses/exams/
+final_date: Thursday, May 16th
 final_time: 10:00AM - 11:50AM
 final_room: WWH 312
 
-final_date_2: Thursday, May 10th
+final_date_2: Monday, May 20th
 final_time_2: 8:00AM - 9:50AM
 final_room_2: WWH 202
 
@@ -41,8 +41,7 @@ final_room_2: WWH 202
 bookq: Starting Out with Python
 bookt: How to Think Like a Computer Scientist
 
-departmental_syllabus: http://cs.nyu.edu/courses/spring18/CSCI-UA.0002-003/common_syllabus/
-
+departmental_syllabus: https://cs.nyu.edu/courses/spring19/CSCI-UA.0002-003/common_syllabus/ 
 module1: "http://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php"
 module2: "http://cs.nyu.edu/elearning/CSCI_UA_0002/module02.php"
 module3: "http://cs.nyu.edu/elearning/CSCI_UA_0002/module03.php"
