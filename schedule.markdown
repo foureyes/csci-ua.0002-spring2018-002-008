@@ -44,7 +44,7 @@ Jump to Class:
 <a name="class1"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 1/29, Class #1
+###  TUE 1/23, Class #1
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -62,7 +62,7 @@ Jump to Class:
 <a name="class2"></a><!---------- start --------------->
 
 <section markdown="block">
-###  THU 1/31, Class #2
+###  THU 1/25, Class #2
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -78,7 +78,7 @@ Jump to Class:
 <a name="class3"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 2/5, Class #3
+###  TUE 1/30, Class #3
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -89,7 +89,7 @@ Jump to Class:
 * Formatting
 * Errors
 * Debugging
-</article>{% comment %}{% include classes/03/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/03/materials.markdown %}</div> </section> 
 
 
 
@@ -97,7 +97,7 @@ Jump to Class:
 <a name="class4"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop" class="workshop">
-###  THU 2/07, Class #4 (Programming Assignment)
+###  THU 2/01, Class #4 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -105,13 +105,13 @@ Jump to Class:
 
 * In-class programming assignment
 
-</article> {% comment %}{% include classes/04/materials.markdown %}{% endcomment %} </div> </section> 
+</article> {% include classes/04/materials.markdown %} </div> </section> 
 
 
 <a name="class5"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 2/12, Class #5
+###  TUE 2/06, Class #5
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -121,26 +121,26 @@ Jump to Class:
 * Boolean Logic
 * Modules (math, random, sys)
 
-</article>{% comment %}{% include classes/05/materials.markdown %}{% endcomment %} </div> </section> 
+</article>{% include classes/05/materials.markdown %} </div> </section> 
 
 
 <a name="class6"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-###  THU 2/14, Class #6 (Programming Assignment)
+###  THU 2/08, Class #6 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %}{% include classes/06/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/06/materials.markdown %}</div> </section> 
 
 
 <a name="class7"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 2/19, Class #7
+###  TUE 2/13, Class #7
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -149,26 +149,26 @@ Jump to Class:
 * Modules (math, random, sys) Continued
 * While Loops
 * Accumulator Variables
-</article>{% comment %}{% include classes/07/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/07/materials.markdown %}</div> </section> 
 
 
 <a name="class8"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-###  THU 2/21, Class #8 (Programming Assignment)
+###  THU 2/15, Class #8 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %}{% include classes/08/materials.markdown %}{% endcomment %} </div> </section> 
+</article>{% include classes/08/materials.markdown %} </div> </section> 
 
 
 <a name="class9"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 2/26, Class #9
+###  TUE 2/20, Class #9
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -177,26 +177,26 @@ Jump to Class:
 * While Loops Continued
 * For Loops 
 
-</article> {% comment %}{% include classes/09/materials.markdown %}{% endcomment %}</div> </section> 
+</article> {% include classes/09/materials.markdown %}</div> </section> 
 
 
 <a name="class10"></a><!---------- start --------------->
 
 <section class="review" markdown="block">
-###  THU 2/28, Class #10 (Review)
+###  THU 2/22, Class #10 (Review)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * Review Session for Midterm #1
-</article>{% comment %}{% include classes/10/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/10/materials.markdown %}</div> </section> 
 
 
 <a name="class11"></a><!---------- start --------------->
 
 <section markdown="block" class="exam">
-###  TUE 3/05, Midterm #1
+###  TUE 2/27, Midterm #1
 
 </section> 
 
@@ -204,7 +204,7 @@ Jump to Class:
 <a name="class12"></a><!---------- start --------------->
 
 <section markdown="block">
-###  THU 3/07, Class #12
+###  THU 3/01, Class #12
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -214,13 +214,13 @@ Jump to Class:
 * Nested Loops
 * Writing Your Own Functions 
 
-</article>{% comment %}{% include classes/12/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/12/materials.markdown %}</div> </section> 
 
 
 <a name="class13"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 3/12, Class #13 
+###  TUE 3/06, Class #13 
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -230,13 +230,13 @@ Jump to Class:
 * Testing
 * Scope
 * Strings
-</article>{% comment %}{% include classes/13/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/13/materials.markdown %}</div> </section> 
 
 
 <a name="class14"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-###  THU 3/14, Class #14 (Programming Assignment)
+###  THU 3/08, Class #14 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -244,13 +244,13 @@ Jump to Class:
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %}{% include classes/14/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/14/materials.markdown %}</div> </section> 
 
 
 <a name="springbreak1"></a><!---------- start --------------->
 
 <section markdown="block" style="background-color: #bbccdd">
-###  TUE 3/19, SPRING BREAK
+###  TUE 3/13, SPRING BREAK
 
 <div class="class-details"></div>
 </section> 
@@ -258,7 +258,7 @@ Jump to Class:
 <a name="springbreak2"></a><!---------- start --------------->
 
 <section markdown="block" style="background-color: #bbccdd">
-###  THU 3/21, SPRING BREAK
+###  THU 3/15, SPRING BREAK
 
 <div class="class-details"></div>
 </section> 
@@ -267,7 +267,7 @@ Jump to Class:
 <a name="class15"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 3/26, Class #15 
+###  TUE 3/20, Class #15 
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -275,38 +275,38 @@ Jump to Class:
 
 * Strings
 
-</article>{% comment %}{% include classes/15/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/15/materials.markdown %}</div> </section> 
 
 
 <a name="class16"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-###  THU 3/28, Class #16 (Programming Assignment)
+###  THU 3/22, Class #16 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %}{% include classes/16/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/16/materials.markdown %}</div> </section> 
 
 
 <a name="class17"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 4/02, Class #17 
+###  TUE 3/27, Class #17 
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics 
 
 * Lists
-</article>{% comment %}{% include classes/17/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/17/materials.markdown %}</div> </section> 
 
 <a name="class18"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-###  THU 4/04, Class #18 (Programming Assignment)
+###  THU 3/29, Class #18 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -314,32 +314,32 @@ Jump to Class:
 
 * In-class programming assignment
 
-</article>{% comment %}{% include classes/18/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/18/materials.markdown %}</div> </section> 
 
 <a name="class19"></a><!---------- start --------------->
 
 <section markdown="block" class="review">
-###  TUE 4/09, Class #19 (Review)
+###  TUE 4/03, Class #19 (Review)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * Review Session for Midterm #2
-{% comment %} {% comment %}{% comment %}{% include classes/21/materials.markdown %}{% endcomment %} {% endcomment %}{% endcomment %}
-</article>{% comment %} {% comment %}{% comment %}{% include classes/19/materials.markdown %}{% endcomment %} {% endcomment %}{% endcomment %}</div> </section> 
+{% comment %} {% comment %}{% include classes/21/materials.markdown %}{% endcomment %} {% endcomment %}
+</article>{% comment %} {% comment %}{% include classes/19/materials.markdown %}{% endcomment %} {% endcomment %}</div> </section> 
 
 <a name="class20"></a><!---------- start --------------->
 
 <section markdown="block" class="exam">
-###  THU 4/11, Midterm #2
+###  THU 4/05, Midterm #2
 
 </section>
 
 <a name="class21"></a><!---------- start --------------->
 
 <section class="review" markdown="block">
-###  TUE 4/16, Class #21
+###  TUE 4/10, Class #21
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -348,25 +348,25 @@ Jump to Class:
 * Lists Continued
 * Graphics (Turtle Module)
 
-</article>{% comment %}{% include classes/21/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/21/materials.markdown %}</div> </section> 
 
 <a name="class22"></a><!---------- start --------------->
 
 <section class="review" markdown="block" class="workshop">
 
-###  THU 4/18, Class #22 (Programming Assignment)
+###  THU 4/12, Class #22 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %}{% include classes/22/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/22/materials.markdown %}</div> </section> 
 
 <a name="class23"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 4/23, Class #23
+###  TUE 4/17, Class #23
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -375,26 +375,26 @@ Jump to Class:
 * File I/O
 * Exceptions
 
-</article>{% comment %}{% include classes/23/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/23/materials.markdown %}</div> </section> 
 
 
 <a name="class24"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-###  THU 4/25, Class #24 (Programming Assignment)
+###  THU 4/19, Class #24 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %}{% include classes/24/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/24/materials.markdown %}</div> </section> 
 
 
 <a name="class25"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 4/30, Class #25
+###  TUE 4/24, Class #25
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -402,47 +402,47 @@ Jump to Class:
 
 * Dictionaries
 
-</article>{% comment %}{% include classes/25/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/25/materials.markdown %}</div> </section> 
 
 
 <a name="class26"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-###  THU 5/02, Class #26 (Programming Assignment)
+###  THU 4/26, Class #26 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * In-class programming assignment
-</article>{% comment %}{% include classes/26/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/26/materials.markdown %}</div> </section> 
 
 
 <a name="class27"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 5/07, Class #27
+###  TUE 5/01, Class #27
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * Object Oriented Programming
-</article>{% comment %}{% include classes/27/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/27/materials.markdown %}</div> </section> 
 
 
 
 <a name="class28"></a><!---------- start --------------->
 
 <section markdown="block" class="review">
-###  THU 5/09, Class #28 (Review)
+###  THU 5/03, Class #28 (Review)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 ####  Topics
 
 * Review Session for Final Exam
-</article>{% comment %} {% comment %}{% comment %}{% include classes/28/materials.markdown %}{% endcomment %} {% endcomment %}{% endcomment %}</div> </section> 
+</article>{% comment %} {% comment %}{% include classes/28/materials.markdown %}{% endcomment %} {% endcomment %}</div> </section> 
 
 
 <a name="final"></a><!---------- start --------------->
@@ -860,4 +860,3 @@ Jump to Class:
 </tbody>
 </table>
 {% endcomment %}
-
